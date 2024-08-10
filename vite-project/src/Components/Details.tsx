@@ -1,4 +1,5 @@
 import "../App.css";
+import logo from "../assets/Vector.png";
 
 function Details() {
   return (
@@ -19,14 +20,13 @@ function Details() {
           placeholder="Full name *"
           required
         />
-        <div className="twobox">
-          <input
-            className="country-input"
-            id="country"
-            type="text"
-            placeholder="Country code *"
-            required
-          />
+        <div className="twobox1">
+          <select id="country" required name="Country code *">
+            <option value="" disabled selected hidden>
+              <img src={logo} alt="" className="logo" />
+              Country code *
+            </option>
+          </select>
           <input
             className="number-input"
             id="number"
@@ -35,7 +35,7 @@ function Details() {
             required
           />
         </div>
-        <div className="twobox1">
+        <div className="twobox2">
           <input
             className="mail-input"
             id="mail"
