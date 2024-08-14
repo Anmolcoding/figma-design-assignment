@@ -352,3 +352,533 @@
             padding: 0px;
             margin-top: 24px;
         }
+        
+        .main-detail2 {
+            width: 792px;
+            height: 874px;
+            margin-top: 32px;
+            padding-left: 120px;
+            padding-right: 120px;
+            border-top: 1px solid #8B8D98;
+            border-bottom: 1px solid #8B8D98;
+        }
+        
+        .content3-detail {
+            width: 792px;
+            height: 88px;
+        }
+        
+        .heading3-detail {
+            width: 792px;
+            height: 48px;
+            margin: 0px;
+            padding-bottom: 16px;
+            box-sizing: border-box;
+        }
+        
+        .paragraph3-detail {
+            width: 792px;
+            height: 40px;
+            margin: 0px;
+            padding-bottom: 16px;
+            box-sizing: border-box;
+        }
+        
+        .form3-detail {
+            width: 792px;
+            height: 538px;
+            padding-top: 28px;
+            padding-left: 24px;
+            padding-right: 24px;
+            box-sizing: border-box;
+            margin-top: 24px;
+            border: 1px solid black;
+            border-radius: 16px;
+        }
+        
+        .card-container {
+            width: 744px;
+            height: 24px;
+            display: flex;
+            justify-content: space-between;
+            margin-top: 24px;
+        }
+        
+        .credit-heading {
+            width: 146px;
+            height: 22px;
+            margin: 0;
+            display: flex;
+            align-items: center;
+        }
+        
+        .card-content {
+            width: 193px;
+            height: 24px;
+            display: flex;
+            justify-content: space-between;
+        }
+        
+        .cardradio {
+            width: 24px;
+            height: 24px;
+        }
+        
+        .cards {
+            width: 744px;
+            height: 20px;
+            margin-top: 28px;
+            display: flex;
+        }
+        
+        .visacontainer {
+            width: 35px;
+            height: 20px;
+            padding: 3.75px 10.26px 3.75px 10px;
+            gap: 0px;
+            border-radius: 4px;
+            border-top: 0.63px;
+            opacity: 0px;
+        }
+        
+        .visa {
+            width: 26.25px;
+            height: 8.75px;
+            top: 5.63px;
+            left: 4.38px;
+            gap: 0px;
+            opacity: 0px;
+        }
+        
+        .mastercontainer {
+            width: 35px;
+            height: 20px;
+            padding: 3.75px 10.26px 3.75px 10px;
+            gap: 0px;
+            border-radius: 4px;
+            border-top: 0.63px;
+            opacity: 0px;
+        }
+        
+        .master {
+            width: 18.77px;
+            height: 11.25px;
+            top: 4.38px;
+            left: 8.13px;
+            gap: 0px;
+            opacity: 0px;
+        }
+        
+        .dinnercontainer {
+            width: 35px;
+            height: 20px;
+            padding: 3.75px 10.26px 3.75px 10px;
+            gap: 0px;
+            border-radius: 4px;
+            border-top: 0.63px;
+            opacity: 0px;
+        }
+        
+        .dinner {
+            width: 14.74px;
+            height: 12.5px;
+            top: 3.75px;
+            left: 10px;
+            gap: 0px;
+            opacity: 0px;
+        }
+        
+        .paymentcontainer {
+            width: 744px;
+            height: 140px;
+            margin-top: 28px;
+            opacity: 0px;
+        }
+        
+        .twobox3 {
+            width: 744px;
+            height: 56px;
+            opacity: 0px;
+            box-sizing: border-box;
+            display: flex;
+            justify-content: space-between;
+        }
+        
+        .name-card-input {
+            width: 360px;
+            height: 56px;
+            border-radius: 16px;
+            border: 1px solid black;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        .card-number-input {
+            width: 360px;
+            height: 56px;
+            border-radius: 16px;
+            border: 1px solid black;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        .twobox4 {
+            width: 744px;
+            height: 56px;
+            margin-top: 24px;
+            box-sizing: border-box;
+            opacity: 0px;
+            display: flex;
+            justify-content: space-between;
+        }
+        
+        .expiry-input {
+            width: 360px;
+            height: 56px;
+            border-radius: 16px;
+            border: 1px solid black;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        .cvv {
+            width: 360px;
+            height: 56px;
+            border-radius: 16px;
+            border: 1px solid black;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        .totalcontainer {
+            width: 744px;
+            height: 230px;
+            margin-top: 32px;
+            border-top: 1px solid black;
+            opacity: 0px;
+            box-sizing: border-box;
+        }
+        
+        .totalcontent {
+            width: 744px;
+            height: 54px;
+            margin-top: 2px;
+            opacity: 0px;
+        }
+        
+        .totalrupee {
+            width: 744px;
+            height: 34px;
+            display: flex;
+        }
+        
+        .totalpayable {
+            width: 612px;
+            height: 34px;
+            display: flex;
+        }
+        
+        .payable {
+            width: 122px;
+            height: 34px;
+            font-family: Open Sans;
+            font-size: 18px;
+            font-weight: 600;
+            line-height: 26px;
+            text-align: left;
+            margin: 0;
+        }
+        
+        .xx {
+            width: 122px;
+            height: 34px;
+            font-family: Open Sans;
+            font-size: 18px;
+            font-weight: 600;
+            line-height: 26px;
+            text-align: left;
+            margin: 0;
+        }
+        
+        .piggybank {
+            width: 132px;
+            height: 28px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            /* padding-top: 4px;
+            padding-right: 8px;
+            padding-bottom: 4px;
+            padding-left: 8px; */
+            gap: 4px;
+            background-color: #299764;
+            border-radius: 1000px;
+            opacity: 0px;
+        }
+        
+        .piggycontainer {
+            width: 14px;
+            height: 14px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        
+        .piggy {
+            width: 13.56px;
+            height: 10.5px;
+            top: 1.75px;
+            gap: 0px;
+            opacity: 0px;
+            color: #E9F9EE;
+        }
+        
+        .price {
+            width: 98px;
+            height: 18px;
+            margin: 0;
+            color: #E9F9EE;
+            font-family: Open Sans;
+            font-size: 12px;
+            font-weight: 600;
+            line-height: 18px;
+            text-align: left;
+        }
+        
+        .paracontainer {
+            margin: 0;
+            display: flex;
+            width: 178px;
+            height: 18px;
+            opacity: 0px;
+        }
+        
+        .para {
+            width: 154px;
+            height: 18px;
+            margin: 0;
+            font-family: Open Sans;
+            font-size: 12px;
+            font-weight: 600;
+            line-height: 18px;
+            text-align: left;
+            color: #60646C;
+        }
+        
+        .inf {
+            width: 16px;
+            height: 16px;
+            padding: 1.5px;
+            gap: 0px;
+            opacity: 0px;
+        }
+        
+        .infimage {
+            width: 13px;
+            height: 13px;
+            top: 1.5px;
+            left: 1.5px;
+        }
+        
+        .buttoncontainer {
+            width: Fill (744px)px;
+            height: Hug (96px)px;
+            margin-top: 20px;
+            opacity: 0px;
+        }
+        
+        .buttonpara {
+            width: 744px;
+            height: 20px;
+            gap: 0px;
+            opacity: 0px;
+            font-family: Open Sans;
+            font-size: 13px;
+            font-weight: 400;
+            line-height: 20px;
+            text-align: left;
+        }
+        
+        .button {
+            width: 220px;
+            height: 56px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            /* padding: var(--spacing--sp-16) var(--spacing--sp-20) var(--spacing--sp-16) var(--spacing--sp-20);
+            gap: var(--spacing--sp-12); */
+            border-radius: 16px;
+            opacity: 0px;
+            background-color: black;
+        }
+        
+        .lck {
+            width: 22px;
+            height: 22px;
+            padding: 0.69px 2.75px 2.75px 2.75px;
+            gap: 0px;
+            opacity: 0px;
+            color: #EDEEF0;
+        }
+        
+        .confirmpay {
+            width: 125px;
+            height: 24px;
+            gap: 0px;
+            opacity: 0px;
+            font-family: Open Sans;
+            font-size: 18px;
+            font-weight: 600;
+            line-height: 24px;
+            text-align: center;
+            color: #EDEEF0;
+        }
+        
+        .applecontainer {
+            width: 792px;
+            height: 72px;
+            margin-top: 24px;
+            border-radius: 16px;
+            border: 1px solid #D3D4DB;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            box-sizing: border-box;
+        }
+        
+        .applecontent {
+            width: 744px;
+            height: 24px;
+            display: flex;
+            justify-content: space-between;
+        }
+        
+        .applepay {
+            width: 151px;
+            height: 24px;
+            gap: 15px;
+            display: flex;
+        }
+        
+        .apple {
+            width: 35px;
+            height: 24px;
+        }
+        
+        .comingsoon {
+            width: 101px;
+            height: 22px;
+            margin: 0;
+            font-family: Open Sans;
+            font-size: 16px;
+            font-weight: 600;
+            line-height: 22px;
+            text-align: left;
+            color: #8B8D98;
+        }
+        
+        .circle {
+            width: 24px;
+            height: 24px;
+            border-top: 1px;
+        }
+        
+        .bookingsummarymain {
+            width: 384px;
+            height: 866px;
+            border-radius: 24px;
+            border: 1px solid #DDDDE3;
+        }
+        
+        .bookingsummarycontent {
+            width: 384px;
+            height: 576px;
+            /* gap: var(--spacing--sp-12); */
+        }
+        
+        .bookingsummary {
+            width: 384px;
+            height: 508px;
+            padding-top: 16px;
+            padding-left: 16px;
+            padding-right: 16px;
+            /* gap: var(--spacing--sp-16); */
+        }
+        
+        .photocontainer {
+            width: 352px;
+            height: 198px;
+            background-image: url(../src/assets/mountain.jpeg);
+            background-size: cover;
+            background-position: center;
+            border-radius: 16px;
+        }
+        
+        .bestseller {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            box-sizing: border-box;
+            width: 91px;
+            height: 26px;
+            /* padding-top: 4px;
+            padding-left: 8px;
+            padding-bottom: 4px;
+            padding-right: 8px; */
+            margin-left: 8px;
+            margin-top: 4px;
+            border-radius: 4px;
+            background-color: white;
+        }
+        
+        .trophy {
+            height: 14px;
+            width: 14px;
+        }
+        
+        .trophyheading {
+            width: 57px;
+            height: 18px;
+            font-family: Open Sans;
+            font-size: 12px;
+            font-weight: 600;
+            line-height: 18px;
+            text-align: left;
+            margin: 0;
+        }
+        
+        .arrow {
+            width: 352pxpx;
+            height: 32px;
+            padding-left: 12px;
+            padding-right: 12px;
+            display: flex;
+            justify-content: space-between;
+        }
+        
+        .leftarrow {
+            width: Hug 32px;
+            height: Hug 32px;
+        }
+        
+        .rightarrow {
+            width: Hug 32px;
+            height: Hug 32px;
+        }
+        
+        .shift {
+            width: 352px;
+            height: 24px;
+            display: flex;
+            justify-content: center;
+        }
+        
+        .shiftcontainer {
+            width: 108px;
+            height: 8px;
+            padding-bottom: 16px;
+            padding-left: 12px;
+            padding-right: 16px;
+            display: flex;
+            justify-content: space-between;
+        }
