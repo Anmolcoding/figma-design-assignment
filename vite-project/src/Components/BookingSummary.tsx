@@ -10,6 +10,9 @@ import ticket from "../assets/ticket.png";
 import calendar from "../assets/calendarlogo.png";
 import time from "../assets/time.png";
 import guest from "../assets/guest.png";
+import piggy from "../assets/Piggy).png";
+import inf from "../assets/infimage.png";
+import lock from "../assets/Lck.png";
 function BookingSummary() {
   return (
     <div className="bookingsummarymain">
@@ -91,6 +94,38 @@ function BookingSummary() {
             <p className="paymenthead">View payment summary</p>
             <p className="plus">+</p>
           </div>
+        </div>
+      </div>
+      <div className="paymentcon">
+        <div className="paymentcont">
+          <div className="payableprice">
+            <div className="payable1">
+              <h5 className="totalpayhead">Total Payable</h5>
+              <h5 className="totalpaydollar">$XXX</h5>
+            </div>
+            <div className="piggybank1">
+              <img src={piggy} alt="" className="piggy1" />
+
+              <h3 className="price1">You saved &lt;price&gt;</h3>
+            </div>
+            <div className="paracontainer1">
+              <p className="para">You will be charged in AED</p>
+              <div className="inf">
+                <img src={inf} alt="" className="infimage" />
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="buttoncon">
+          <p className="buttoncont">
+            By clicking “confirm & pay”, you agree to
+            <a> Tickete’s general terms and conditions</a> and
+            <a> cancellation policy</a>
+          </p>
+          <button className="button1">
+            <img src={lock} alt="" className="lck1" />
+            <a className="confirmpay1">Confirm & pay</a>
+          </button>
         </div>
       </div>
     </div>
