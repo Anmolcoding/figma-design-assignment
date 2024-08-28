@@ -109,7 +109,7 @@
                 
                 .section-box {
                     box-sizing: border-box;
-                    padding-left: 120px;
+                    /* padding-left: 120px; */
                 }
                 
                 .confirmpay-box {
@@ -190,7 +190,7 @@
                     width: 792px;
                     height: 368px;
                     margin-top: 32px;
-                    padding-left: 120px;
+                    /* padding-left: 120px; */
                 }
                 
                 .content-detail {
@@ -285,7 +285,7 @@
                     width: 792px;
                     height: 288px;
                     margin-top: 24px;
-                    padding-left: 120px;
+                    /* padding-left: 120px; */
                 }
                 
                 .content-detail {
@@ -355,7 +355,7 @@
                     width: 792px;
                     height: 874px;
                     margin-top: 32px;
-                    padding-left: 120px;
+                    /* padding-left: 120px; */
                     border-top: 1px solid #8B8D98;
                     border-bottom: 1px solid #8B8D98;
                 }
@@ -1278,8 +1278,8 @@
                 .faqmaincontainer {
                     width: 1440px;
                     height: 686px;
-                    padding-left: 120px;
-                    padding-right: 120px;
+                    /* padding-left: 120px; */
+                    /* padding-right: 120px; */
                     opacity: 0px;
                 }
                 
@@ -1304,7 +1304,6 @@
                     margin: 0;
                     width: 486px;
                     height: 48px;
-                    padding: var(--spacing--sp-0) var(--spacing--sp-0) var(--spacing--sp-16) var(--spacing--sp-0);
                     gap: var(--spacing--sp-0);
                     opacity: 0px;
                     font-family: Open Sans;
@@ -1318,7 +1317,7 @@
                 .faqpara {
                     width: 446px;
                     height: 40px;
-                    padding: var(--spacing--sp-0) var(--spacing--sp-0) var(--spacing--sp-16) var(--spacing--sp-0);
+                    /* padding: var(--spacing--sp-0) var(--spacing--sp-0) var(--spacing--sp-16) var(--spacing--sp-0); */
                     gap: var(--spacing--sp-0);
                     opacity: 0px;
                     margin: 0;
