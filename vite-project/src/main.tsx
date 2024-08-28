@@ -13,11 +13,15 @@ import Footer from "./Components/Footer";
 ReactDOM.createRoot(document.getElementById("root")!).render(
   <React.StrictMode>
     <Header />
-    <ConfirmPay />
-    <Details />
-    <Information />
-    <Payment />
-    <BookingSummary />
+    <div className="main">
+      <div className="mainweb">
+        <ConfirmPay />
+        <Details />
+        <Information />
+        <Payment />
+      </div>
+      <BookingSummary />
+    </div>
     <Faq />
     <Footer />
   </React.StrictMode>

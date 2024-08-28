@@ -8,10 +8,18 @@
 .web2 {
     width: 384px;
     height: 866px;
+} */
+
+body {
+    box-sizing: border-box;
+}
+
+.main {
+    /* width: 1200px;
+    height: 2142px; */
+    display: flex;
 }
 
 .mainweb {
-    width: 1200px;
-    height: 2142px;
-    display: flex;
-} */
+    box-sizing: border-box;
+}
