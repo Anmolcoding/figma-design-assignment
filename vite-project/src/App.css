@@ -807,6 +807,10 @@
                 }
                 
                 .photocontainer {
+                    padding-top: 10px;
+                    display: flex;
+                    flex-direction: column;
+                    justify-content: space-between;
                     width: 352px;
                     height: 198px;
                     background-image: url(../src/assets/mountain.jpeg);
