@@ -84,7 +84,7 @@ function Payment() {
                 <div className="piggycontainer">
                   <img src={piggy} alt="" className="piggy" />
                 </div>
-                <h3 className="price">You save &qt;price&at;</h3>
+                <h3 className="price">You save &lt;price&gt;</h3>
               </div>
             </div>
             <div className="paracontainer">

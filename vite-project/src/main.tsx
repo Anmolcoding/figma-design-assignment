@@ -7,6 +7,8 @@ import ReactDOM from "react-dom/client";
 // import Information from "./Components/Information";
 // import Payment from "./Components/Payment";
 import BookingSummary from "./Components/BookingSummary";
+// import Faq from "./Components/Faq";
+// import Footer from "./Components/Footer";
 
 ReactDOM.createRoot(document.getElementById("root")!).render(
   <React.StrictMode>
@@ -16,5 +18,7 @@ ReactDOM.createRoot(document.getElementById("root")!).render(
     <Information />
     <Payment /> */}
     <BookingSummary />
+    {/* <Faq />
+    <Footer /> */}
   </React.StrictMode>
 );
