@@ -1,7 +1,7 @@
 import "../App.css";
 import trophy from "../assets/Trophy.png";
-import leftarrow from "../assets/Carousel Arrow<.png";
-import rightarrow from "../assets/Carousel Arrow>.png";
+import leftarrow from "../assets/Carousel Arrowleft.png";
+import rightarrow from "../assets/Carousel Arrowright.png";
 import circle6 from "../assets/6circle.png";
 import circle8 from "../assets/8circle.png";
 import circle28 from "../assets/28circle.png";
@@ -10,7 +10,7 @@ import ticket from "../assets/ticket.png";
 import calendar from "../assets/calendarlogo.png";
 import time from "../assets/time.png";
 import guest from "../assets/guest.png";
-import piggy from "../assets/Piggy).png";
+import piggy from "../assets/Piggy.png";
 import inf from "../assets/infimage.png";
 import lock from "../assets/Lck.png";
 function BookingSummary() {

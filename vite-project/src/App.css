@@ -30,6 +30,7 @@
                     top: 13px;
                     left: 120px;
                     justify-content: space-evenly;
+                    align-items: baseline;
                 }
                 
                 .logo {
@@ -1289,6 +1290,7 @@
                 
                 .faqcontainer {
                     box-sizing: border-box;
+                    margin-top: 24px;
                     display: flex;
                     width: 1200px;
                     height: 654px;
